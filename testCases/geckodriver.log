@@ -1,0 +1,213 @@
+1686741013065	geckodriver	INFO	Listening on 127.0.0.1:54512
+1686741016162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sindhu\\AppData\\Local\\Temp\\rust_mozprofileR1q9Na"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686741017133	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686741017141	Marionette	INFO	Listening on port 54525
+Read port: 54525
+WebDriver BiDi listening on ws://127.0.0.1:54513
+1686741017470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54513/devtools/browser/cb848a62-1426-4152-ada5-3ffcf392bc02
+[Parent 8416, IPC I/O Parent] WARNING: DuplicateHandle faile1686741025951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remo1686741086713	Marionette	INFO	Stopped listening on port 54525
+Dynamically enable window occlusion 1
+hu\\AppData\\Local\\Temp\\rust_mozprofileatwx8t"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1686741026756	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1686741026764	Marionette	INFO	Listening on port 54590
+Read port: 54590
+WebDriver BiDi listening on ws://127.0.0.1:54564
+1686741026935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54564/devtools/browser/599d07db-9406-4b06-a59a-f511e47f37a9
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+1686741083016	Marionette	INFO	Stopped listening on port 54590
+Dynamically enable window occlusion 1
+1688123640028	geckodriver	INFO	Listening on 127.0.0.1:57160
+1688123643095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sindhu\\AppData\\Local\\Temp\\rust_mozprofileTBWJZK"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688123643570	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688123643576	Marionette	INFO	Listening on port 57172
+Read port: 57172
+WebDriver BiDi listening on ws://127.0.0.1:57161
+1688123643740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57161/devtools/browser/bc552903-0c7c-4bef-9838-5bf65dcc616d
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 402: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:575:17\n"
+1688123654963	Marionette	INFO	Stopped listening on port 57172
+Dynamically enable window occlusion 1
+1688123657498	geckodriver	INFO	Listening on 127.0.0.1:57231
+1688123660546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sindhu\\AppData\\Local\\Temp\\rust_mozprofile0fJN8D"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688123660845	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688123660849	Marionette	INFO	Listening on port 57241
+Read port: 57241
+WebDriver BiDi listening on ws://127.0.0.1:57232
+1688123660962	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57232/devtools/browser/4d92a49d-71b0-4519-b755-2dcad0614464
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 402: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:575:17\n"
+1688123669265	Marionette	INFO	Stopped listening on port 57241
+Dynamically enable window occlusion 1
+1688123671158	geckodriver	INFO	Listening on 127.0.0.1:57294
+1688123674214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sindhu\\AppData\\Local\\Temp\\rust_mozprofile57BDSB"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688123674512	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688123674518	Marionette	INFO	Listening on port 57305
+Read port: 57305
+WebDriver BiDi listening on ws://127.0.0.1:57295
+1688123674647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57295/devtools/browser/46efcb95-407c-497f-b01f-6debab9e0697
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 402: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:575:17\n"
+1688123685079	Marionette	INFO	Stopped listening on port 57305
+Dynamically enable window occlusion 1
+1688123687398	geckodriver	INFO	Listening on 127.0.0.1:57365
+1688123690440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57366" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sindhu\\AppData\\Local\\Temp\\rust_mozprofileGrOCFO"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688123690772	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688123690777	Marionette	INFO	Listening on port 57375
+Read port: 57375
+WebDriver BiDi listening on ws://127.0.0.1:57366
+1688123690885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57366/devtools/browser/327c3283-3729-4bbe-b785-f689bd8c543a
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 1369: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 402: TypeError: $(...).valid is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: "Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null\ngetMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.sys.mjs:309:29\nobserve@resource://gre/modules/AsyncShutdown.sys.mjs:575:17\n"
+1688123700622	Marionette	INFO	Stopped listening on port 57375
+Dynamically enable window occlusion 1
+1688123703439	geckodriver	INFO	Listening on 127.0.0.1:57432
+1688123706498	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57433" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Sindhu\\AppData\\Local\\Temp\\rust_mozprofileyMA6St"
+console.error: Enterprise Policies: 
+  Unknown policy: QuicAllowed
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1688123706832	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1688123706837	Marionette	INFO	Listening on port 57441
+WebDriver BiDi listening on ws://127.0.0.1:57433
+Read port: 57441
+1688123707105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57433/devtools/browser/bffac770-39d2-4442-8c6d-d9f20056b55c
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 441: unreachable code after return statement
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/bs/auth.js?v=1.08, line 776: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+JavaScript error: https://www.tutorialspoint.com/market/login.asp line 2 > injectedScript, line 23: TypeError: this[0] is undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.tutorialspoint.com."
+1688123729234	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.tutorialspoint.com/market/tutor/dashboard.jsp?v=1688123738550, line 688: ReferenceError: swal is not defined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.tutorialspoint.com/market/public/assets/js/course-create.js?v=1.04, line 786: unreachable code after return statement
+JavaScript error: https://www.tutorialspoint.com/market/public/assets/js/nuevo.min.js, line 1: TypeError: R is undefined
+1688123757207	Marionette	INFO	Stopped listening on port 57441
+Dynamically enable window occlusion 1
