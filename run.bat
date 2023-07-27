@@ -1,1 +1,4 @@
-pytest -v -s test_LoginPage.py
+@echo
+pytest -v -s C:\Users\Sindhu\PycharmProjects\quickerAutomation\testCases\test_LoginPage.py 
+
+pause
